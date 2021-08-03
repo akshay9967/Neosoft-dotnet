@@ -3,6 +3,8 @@
 - This can be of 2 types
 	- Distributed VCS
 		- Github, BitBucket, Gitlab etc...
+		- We'll be able to modify code without internet because code will be available on our local machine unlike 
+		  CVCS
 	- Centralized VCS
 		- TFS, VSTS, SVN
 # Git
