@@ -72,7 +72,7 @@ namespace PetDataADO
 
         public static void DeleteCatById(string conString, out SqlConnection connection, out SqlCommand command, int id)
         {
-            string query = "SP_Deletecat";
+            string query = "spDeleteCat";
             using (connection = new SqlConnection(conString))
             {
                 try
@@ -82,13 +82,19 @@ namespace PetDataADO
                         command.CommandType = CommandType.StoredProcedure;
 
                         SqlParameter parameter;
-                        parameter = command.Parameters.Add("@catId", SqlDbType.Int);
+                        parameter = command.Parameters.Add("@Id", SqlDbType.Int);
                         parameter.Value = id;
 
                         connection.Open();
-
                         int rowsAffected = command.ExecuteNonQuery();
-                        Console.WriteLine($"Cat name Deleted, {rowsAffected} row(s) affected");
+                        if (rowsAffected > 0)
+                        {
+                            Console.WriteLine($"Cat name Deleted, {rowsAffected} row(s) affected");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Id doesn't exist..");
+                        }
                     }
                 }
                 finally

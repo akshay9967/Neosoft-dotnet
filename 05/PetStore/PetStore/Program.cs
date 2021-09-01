@@ -26,6 +26,9 @@ namespace PetStore
             string query = $"SELECT * from Cats";
             DeleteCatByNameDisconnected(conString, query, name);
             GetCatsDisconnected(conString);
+
+            DeleteCatId(conString);
+
             /*
              GetCats(conString);
 
@@ -35,6 +38,16 @@ namespace PetStore
              string name = Console.ReadLine();
              UpdatCatName(conString, id, name);
              GetCats(conString);*/
+        }
+
+        private static void DeleteCatId(string conStr)
+        {
+            Console.Write("PLease enter the Id of the cat which you want to delete : ");
+            int id = Int32.Parse(Console.ReadLine());
+            SqlConnection connection;
+            SqlCommand command;
+            ConnectedArchitecture.DeleteCatById(conStr, out connection, out command, id);
+
         }
 
         private static void DeleteCatByNameDisconnected(string conStr, string query, string name)
