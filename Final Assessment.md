@@ -36,7 +36,7 @@
 - make frequent small commits and push
 - Keep deploying your app from the begining and publish often when some changes has occured.
 - make sure you all distribute your work so that no one is burderned
-- once you complete your task share the link of your deployed app on zoom
+- once you complete your task share the link of your deployed app on slack
 
 ### Other Requirements 
 - Exception Handling 
@@ -60,8 +60,8 @@
 
 |# | Team Representative  | Team Members         |
 |--|----------------------|----------------------|
-|1.|Shivam Gupta | Saad Mansuri, Sana Haju, Pratiksha Poshe, Emran, Vivek, Nikita, Himani Jain|
+|1.|Shivam Gupta | Saad Mansuri, Pratiksha Poshe, Emran, Vivek, Nikita, Himani Jain, Anagha Thorat|
 |2.|Harsh Chheda|Kunal Patil, Yogesh Chaudhari, Mayuri Kumbhar, Krunal Rane, Pranali Deore, Jaideep Sahu, Prachi Gaikwad|
 |3.|Aman Sharma           |Mitali Jain, Ramya Guduru, Sushma, Imam, Vishram, Romila, Hrushikesh Shinde|
 |4.|Samuel Joy |Anshul, Raj Bhosale, Lucky Pareekh, Kajal, Shivani Goswami, Akshay Pawar|
-|5.|Alfaiz Khan |  Nomaan Pansare, Saif Khan, Shivani Yogi, Shruti, Nivrutti, Maaria Khan, Anagha Thorat|
+|5.|Alfaiz Khan |  Nomaan Pansare, Saif Khan, Shivani Yogi, Shruti, Nivrutti, Maaria Khan, Sana Haju|
