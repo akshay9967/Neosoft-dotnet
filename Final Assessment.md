@@ -59,6 +59,6 @@
 |--|----------------------|----------------------|
 |1.|Shivam Gupta | Saad Mansuri, Sana Haju, Pratiksha Poshe, Emran, Vivek, Nikita, Himani Jain|
 |2.|Harsh Chheda|Kunal Patil, Yogesh Chaudhari, Mayuri Kumbhar, Krunal Rane, Pranali Deore, Jaideep Sahu, Prachi Gaikwad|
-|2.|Aman Sharma           |Mitali Jain, Ramya Guduru, Sushma, Imam, Vishram, Romila, Hrushikesh Shinde|
-|4.|Samuel Joy |Anshul,Raj Bhosale,Lucky Pareekh,Kajal, Shivani Goswami, Akshay Pawar|
-|5.|Alfaiz Khan |  Nomaan Pansare, Saif Khan, Shivani Yogi, Shruti, Nivrutti, Maaria Khan|
+|3.|Aman Sharma           |Mitali Jain, Ramya Guduru, Sushma, Imam, Vishram, Romila, Hrushikesh Shinde|
+|4.|Samuel Joy |Anshul, Raj Bhosale, Lucky Pareekh, Kajal, Shivani Goswami, Akshay Pawar|
+|5.|Alfaiz Khan |  Nomaan Pansare, Saif Khan, Shivani Yogi, Shruti, Nivrutti, Maaria Khan, Anagha Thorat|
