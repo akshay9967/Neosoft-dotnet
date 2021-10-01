@@ -16,7 +16,10 @@
 - On first request land user to Login/SignUp Page
 - SignUp as Trainer
   - Login as Trainer
-  - Add Profile (such as experience, skills and education)
+  - Add Profile 
+    - Add work experience
+    - Add tech skills
+    - Add education
   - View profile or details of themselves
   - Edit profile
 - *(optional) SignUp as Client*
